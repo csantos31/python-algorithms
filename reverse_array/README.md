@@ -28,12 +28,12 @@ Reversed Items:  => | itemN | item4 | item3 | item2 | item1 |
 1. Ensure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone this repository:
    ```bash
-   git clone <REPOSITORY-URL>
-   cd <FOLDER-NAME>
+   git clone https://github.com/csantos31/python-algorithms.git
+   cd reverse_array
    ```
 3. Execute the script:
    ```bash
-   python3 reverse_array.py
+   python3 main.py
    ```
 
 ## Logic Explanation

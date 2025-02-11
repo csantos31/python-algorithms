@@ -54,12 +54,12 @@ USER VENCEU !!!
 1. Ensure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone this repository:
    ```bash
-   git clone <REPOSITORY_URL>
-   cd <REPOSITORY_FOLDER>
+   git clone https://github.com/csantos31/python-algorithms.git
+   cd jokenpo
    ```
 3. Run the script:
    ```bash
-   python3 rock_paper_scissors.py
+   python3 main.py
    ```
 
 ## Possible Future Improvements

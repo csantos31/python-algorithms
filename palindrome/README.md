@@ -35,12 +35,12 @@ The word hello is NOT palindrome
 1. Ensure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone this repository:
    ```bash
-   git clone <REPOSITORY-URL>
-   cd <FOLDER-NAME>
+   git clone https://github.com/csantos31/python-algorithms.git
+   cd palindrome
    ```
 3. Execute the script:
    ```bash
-   python3 palindrome_checker.py
+   python3 main.py
    ```
 
 ## Logic Explanation

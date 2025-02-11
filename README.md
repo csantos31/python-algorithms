@@ -28,17 +28,17 @@ Each subproject can be run independently. Navigate to the desired subproject fol
 
 ```bash
 cd jokenpo
-python3 jokenpo.py
+python3 main.py
 ```
 
 ```bash
 cd palindrome
-python3 palindrome.py
+python3 main.py
 ```
 
 ```bash
 cd reverse_array
-python3 reverse_array.py
+python3 main.py
 ```
 
 ## Requirements
